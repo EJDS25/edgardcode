@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Edgard jose Estrada Salazar,2024-1373U
 public class App {
 
     public static int N1, N2, N3; 
